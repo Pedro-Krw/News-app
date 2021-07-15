@@ -1,2 +1,2 @@
 # News-app
-Android Apps Portal Berita 
+Portal Berita 
